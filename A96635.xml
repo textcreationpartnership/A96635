@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of agreement had, made, and concluded, between the commissioners of the Right Honorable the Lord Willoughby of Parham, of the one partie; and the commissioners of the Parliament of England, of the other partie: being in order to the rendition of the island of Barbadoes</title>
+            <title>Treaties, etc. England and Wales, 1652-01-11.</title>
+            <author>Barbados.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96635</idno>
+            <idno type="STC">Wing W2858</idno>
+            <idno type="STC">Thomason E663_4</idno>
+            <idno type="STC">ESTC R206790</idno>
+            <idno type="EEBO-CITATION">99865896</idno>
+            <idno type="PROQUEST">99865896</idno>
+            <idno type="VID">166151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166151)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E663[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of agreement had, made, and concluded, between the commissioners of the Right Honorable the Lord Willoughby of Parham, of the one partie; and the commissioners of the Parliament of England, of the other partie: being in order to the rendition of the island of Barbadoes</title>
+                  <title>Treaties, etc. England and Wales, 1652-01-11.</title>
+                  <author>Barbados.</author>
+                  <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The agreement, concluded 11 Jan. 1652, transfers control of the Island of Barbadoes to the Parliament.</note>
+                  <note>Annotation on Thomason copy: "may 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barbados --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166151:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>ARTICLES OF AGREEMENT Had, Made, and Concluded, be<g ref="char:EOLhyphen"/>tween the Commiſsioners of the Right Honorable the Lord WILLOUGHBY of <hi>PARHAM,</hi> of the one Partie; and the Commiſſioners of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> of the other PARTIE: Being in Order to the RENDITION Of the ISLAND of BARBADOES:</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_articles">
+            <pb facs="tcp:166151:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="1" facs="tcp:166151:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <p>Articles of Agreement, had, made, and concluded, the eleventh day of <hi>January, 1651.</hi> by and between the Commiſsioners of the Right Honourable the Lord <hi>Willoughbie</hi> of <hi>Par<g ref="char:EOLhyphen"/>ham</hi> of the one partie, and the Commiſsioners in the behalf of the <hi>Common-Wealth</hi> of <hi>England,</hi> of the other Partie, being in order to the Rendition of the Iſland of <hi>Barbadoes,</hi> are as followeth:</p>
+            <list>
+               <item>I. THat a Liberty of Conſcience in mat<g ref="char:EOLhyphen"/>ters of Religion be allowed to all ex<g ref="char:EOLhyphen"/>cepting to ſuch whoſe Tenents are in<g ref="char:EOLhyphen"/>conſiſtent to a Civill Government, and that the Laws be put in Execution againſt A<g ref="char:EOLhyphen"/>theiſme, Blaſphemie, and open ſcandalous living, ſe<g ref="char:EOLhyphen"/>ditious Preaching, or unſound Doctrine ſufficient<g ref="char:EOLhyphen"/>ly proved againſt him.</item>
+               <item>II. That the Courts of Juſtice ſhall ſtill conti<g ref="char:EOLhyphen"/>nue, and all Judgements and Orders therein be va<g ref="char:EOLhyphen"/>lid, untill they be reverted by due form of Law.</item>
+               <item>III. That no Taxes, Cuſtomes, Impoſt, Laws, or Exciſe ſhall be laid, nor Levies made to any of
+<pb n="2" facs="tcp:166151:3"/>
+                  <!-- PDF PAGE 75 -->the Inhabitants of this Iſland, without their free conſent in a Generall Aſſembly.</item>
+               <item>IIII. That no man ſhall be Impriſoned, or put out of his poſſeſſion of Land and Tenements, which he hath by any former Warrant or title derived from it, or other Goods or Chattels whatever, without due proceedings according to the known common Laws of <hi>England,</hi> and Statutes and Cuſtomes of this Iſland, in the Court of Juſtice here firſt had, and Judgement for the ſame obtained, and Execution from thence recorded.</item>
+               <item>V. That all ſuits between partie and partie, and Criminall and Common Pleas be determined here, and none be compelled to goe into <hi>England,</hi> to aſſert and defend their Titles to any Eſtate which they have here, without conſent of a General Aſſembly.</item>
+               <item>VI. That an Act of Indempnitie be withall con<g ref="char:EOLhyphen"/>venient ſpeed paſſed in the Parliament of <hi>England,</hi> to ſave and keep harmleſſe and unqueſtionable, all and every of the Inhabitants of this Iſland, that are comprized within theſe Articles, for, and concerning any Act or thing whatſoever, done by them or any of them, at any time, or in any place, or words ſpo<g ref="char:EOLhyphen"/>ken by them or any of them before the date of theſe Articles, and that they be cleared, acquitted, and diſ<g ref="char:EOLhyphen"/>charged thereof for ever, as well in reſpect of the publike power, as of any particular perſon concern<g ref="char:EOLhyphen"/>ing damages, or loſſe which they have received by
+<pb n="3" facs="tcp:166151:3"/>
+                  <!-- PDF PAGE 75 -->reaſon of the preſent defectives, and untill the ſaid Act come hither, an Inſtrument of Indempnitie to all ſuch comprized in theſe Articles to the purpoſe aforeſaid bee aſſigned by Sir <hi>George</hi> his Aſſign, and the other Commiſſioners, and the ſaid Articles, toge<g ref="char:EOLhyphen"/>ther with the ſaid Inſtrument of Indempnitie, may be received into the Aſſembly here, and filed a<g ref="char:EOLhyphen"/>mong the Records, and that it be preſented by the ſaid <hi>George Aſcue</hi> and the Commiſſioners to the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> or the Council of State eſta<g ref="char:EOLhyphen"/>bliſhed by authoritie of Parliament, that an Act made the third of <hi>October,</hi> whereby the Inhabitants of this Iſland have been declared Traitors, may up<g ref="char:EOLhyphen"/>on this Accord, be taken off the File from among the Records.</item>
+               <item>VII. That all and every the Inhabitants of this Iſland comprized within theſe Articles bee reſtored to all their Lands, and poſſeſſion of Goods, and Mo<g ref="char:EOLhyphen"/>nie, which they have right to in <hi>England, Scotland,</hi> or <hi>Ireland.</hi>
+               </item>
+               <item>VIII. That no Oathes, Covenants, or Ingage<g ref="char:EOLhyphen"/>ments whatſoever be impoſed upon the Inhabitants of this Iſland, who receive the benefit of thoſe Ar<g ref="char:EOLhyphen"/>ticles againſt their Conſciences.</item>
+               <item>IX. That all Ports, Towns, and Cities, under the Parliaments power, that be open into the Inhabitants of this Iſland, in as great a freedome of Trade as e<g ref="char:EOLhyphen"/>ver, and that no Companies be placed over them;
+<pb n="4" facs="tcp:166151:4"/>
+                  <!-- PDF PAGE 76 -->nor the Commodities of this Iſland ingroſſed into private mens hands: And that all Trade be free with all Nations that doe Trade, and are in unitie with <hi>England.</hi>
+               </item>
+               <item>X. That whereas the Exciſe upon ſtrong Liquors was laid for the payment of publique Debts; It is therefore agreed, That the Lord <hi>Willoughbie</hi> of <hi>Par<g ref="char:EOLhyphen"/>ham,</hi> and all imployed by him, and all other perſons whatſoever, ſhallbe acquitted and diſcharged from the payment of any publike Debts, and that the ſame be diſcharged by the ſaid Exciſe, and ſuch other waies as to the General Aſſembly ſhall ſeem fit, provided that care and reſpect be therein had to ſuch as have emi<g ref="char:EOLhyphen"/>nently ſuffered in their Eſtates.</item>
+               <item>XI. That all Perſons be free at any time to tranſ<g ref="char:EOLhyphen"/>port themſelves or Eſtates when they ſhall thinke fit, firſt ſetting up their Names according to the Cuſtome of this Iſland.</item>
+               <item>XII. That all Priſoners on both ſides be diſchar<g ref="char:EOLhyphen"/>ged and ſet free, with their full benefit of injoying all thoſe Articles, and that all thoſe Horſes, Cattel, and Servants, Negroes, and other Goods whatever, be returned to the right Owners, except ſuch Ser<g ref="char:EOLhyphen"/>vants as had freedome given them, and come aboard before <hi>Saturday</hi> the third of <hi>Ianuary.</hi>
+               </item>
+               <item>XIII. That ſuch particular Perſons as are in this Iſland at the time of the Surrender thereof, who
+<pb n="5" facs="tcp:166151:4"/>
+                  <!-- PDF PAGE 76 -->have Eſtates on <hi>Antego,</hi> may peaceably return thither, and there injoy the benefits of thoſe Articles.</item>
+               <item>XIV. That for certain time all executions be ſtopped, ſufficient caution being given, that all the ex<g ref="char:EOLhyphen"/>piration of the payment be made, and that the Com<g ref="char:EOLhyphen"/>miſſioners, together with the generall Aſſembly, be Judges of the time and caution.</item>
+               <item>XV. That all their ſmall Veſſels, or Barques, now on ground before the bridge Town, doe repair to their proper owners, and have liberty to goe to any part laden.</item>
+               <item>XVI. That the Lord <hi>Willoughby</hi> of <hi>Parham</hi> have all his Lands, Rents, and all his Eſtates whatſoever reall and perſonall in <hi>England,</hi> without any Fine or Compoſition paid, reſtored to him or his Aſſigns free from all incumbrances laid on the ſame by the Parliament of <hi>England,</hi> or any by them authorized, ſince the time of its firſt ſeizure or ſequeſtration; and that what ſettlements the ſaid Lord <hi>Willoughbie</hi> hath made at <hi>Surrenam,</hi> or any other he ſhall make on any part of the name of <hi>Guinaſhall,</hi> be by him injoyed, and I hope without any diſturbance, either of him<g ref="char:EOLhyphen"/>ſelf or thoſe that ſhall accompany him thither: And that he hath free liberty to bring Servants from any Port in <hi>England</hi> or <hi>Ireland;</hi> and that his Plantation at <hi>Antego;</hi> according to the bounds already made out, reſerved to him; and what Eſtate ſoever of right doth belong to the ſaid Lord <hi>Willoughbie</hi> of <hi>Parham</hi>
+                  <pb n="6" facs="tcp:166151:5"/>
+                  <!-- PDF PAGE 77 -->in this Iſland of <hi>Barbodoes,</hi> be to him intirely pre<g ref="char:EOLhyphen"/>ſerved.</item>
+               <item>XVII. That all ſuch perſons of this Iſland or elſewhere, whoſe Eſtates have here been ſequeſtred or detained from them upon this publick defence, be forthwith reſtored to their Plantations, Goods, or Eſtates upon this Iſland.</item>
+               <item>XVIII. That the Iſland of <hi>Barbadoes,</hi> with all the Forts, Sconces, Fortifications thereof, and that all the Artillery, all publick Armes and Ammunition, be delivered up, into the hands of Sir <hi>George Ayſcue</hi> for the uſe of the States of <hi>England,</hi> before <hi>Munday</hi> twelve of the Clock at noon, being the 11. of this inſtant <hi>January,</hi> and that no Garriſon be kept here, but that all forces be disbanded within four and twenty houres after the ſealing of theſe Articles, and that for the ſafety of the Iſland the Militia ſhall be diſpoſed of as to the preſent Commiſſioners, and future Gover<g ref="char:EOLhyphen"/>nours ſhall ſeem fit, the Articles not to be conſtrued to take away the Armes of any particular perſon with<g ref="char:EOLhyphen"/>in this Iſland.</item>
+               <item>XIX. That the Government of this Iſland be by a Governour, Councill, and Aſſembly, according to the antient and uſuall Cuſtomes; and that the Governours be appointed by the State of <hi>England,</hi> and from <hi>June</hi> to <hi>June</hi> received and obeyed here, the Councill for the preſent to be by him choſen, the Aſſembly to be choſen by a free voluntary ele<g ref="char:EOLhyphen"/>ction
+<pb n="7" facs="tcp:166151:5"/>
+                  <!-- PDF PAGE 77 -->of the Free-holders of this Iſland, in the ſeve<g ref="char:EOLhyphen"/>rall Pariſhes; and that the uſuall Cuſtomes, of the choice of the Councill, be repreſented by the Com<g ref="char:EOLhyphen"/>miſſioners to the Parliament of <hi>England,</hi> or to the Councill of State, eſtabliſhed by Authority of Par<g ref="char:EOLhyphen"/>liament, with the deſires of the Inhabitants for the confirmation thereof for the future.</item>
+               <item>XX. And whereas it hath been taken into ſerious conſideration, that the main and cheife cauſe of our troubles and miſeries hath grown by looſe and baſe uncivill language tending to ſedition, onely uſed a<g ref="char:EOLhyphen"/>mong many people: Here it is therefore further a<g ref="char:EOLhyphen"/>greed, that at the firſt generall Aſſembly a ſtrict Law be made againſt all ſuch perſons, with a heavy penalty to be inflicted upon them that ſhall be guilty of any reviling ſpeeches of what nature ſoever, by remem<g ref="char:EOLhyphen"/>bring or reviling into former differences, and re<g ref="char:EOLhyphen"/>proaching any man with the cauſe he hath formerly defended.</item>
+               <item>XXI. It is agreed, that the Articles may with all convenient ſpeed be preſented to the Parliament of <hi>England,</hi> to be by them ratified and confirmed to all intents, contractions, and purpoſes.</item>
+               <item>XXII. It is further agreed, That all Lawes here<g ref="char:EOLhyphen"/>tofore made by generall Aſſemblies, that are not re<g ref="char:EOLhyphen"/>pugnant to the Lawes of <hi>England,</hi> ſhall be good, excepting ſuch as concern the preſent difference.</item>
+               <item>
+                  <pb n="8" facs="tcp:166151:6"/>
+                  <!-- PDF PAGE 78 -->
+XXIII. That the Right Honourable the Lord <hi>Willoughby</hi> have free liberty to goe into <hi>England,</hi> and there to ſtay or depart at his pleaſure, without having any Oath or Ingagement put upon him, he acting or attempting nothing prejudiciall to the Common<g ref="char:EOLhyphen"/>wealth of <hi>England:</hi>
+               </item>
+            </list>
+            <closer>
+               <dateline>In witneſſe whereof, we the Commiſſioners appointed by the Lord <hi>Willoughby,</hi> have hereunto ſet our hands and ſeales <date>this 11<hi rend="sup">th</hi> day of <hi>January,</hi> 1651.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Richard Pearce.</item>
+                     <item>Charles Pym.</item>
+                     <item>Tho. Ellis.</item>
+                     <item>Will. Byam.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb n="9" facs="tcp:166151:6"/>
+            <!-- PDF PAGE 77 -->
+            <head>By the Governour.</head>
+            <p>IT is my pleaſure, that the above-written Articles be publiſhed in ſeverall Pariſh Churches within this Iſland:</p>
+            <closer>
+               <dateline>Given under my Hand <date>this ſixteenth of <hi>Ianuary,</hi> 1651.</date>
+               </dateline>
+               <signed>George Ayſcue.</signed> 
+            </closer>
+            <postscript>
+               <p>Veria Copia.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
